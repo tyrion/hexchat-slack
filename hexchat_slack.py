@@ -15,7 +15,9 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
-# You can install this program by placing it in ~/.config/hexchat/addons.
+# You can install this program by placing it in ~/.config/hexchat/addons. e.g.
+# $ (cd ~/.config/hexchat/addons; wget \
+#       https://github.com/tyrion/hexchat-slack/raw/master/hexchat_slack.py)
 
 import re
 import hexchat
